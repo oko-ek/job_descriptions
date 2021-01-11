@@ -1,0 +1,126 @@
+Data Engineer (vs Big Data Engineer)
+
+======================
+
+the key role of Data Engineers is to build data workflows, pipelines, and ETL processes that prepare and transform data for Data Scientists making their jobs more effective
+
+================
+
+Big Data Engineers are professionals who develop, maintain, test and evaluate a company’s Big Data infrastructure.
+
+===========
+
+================
+Business Intelligence Analysts leverage various data tools to analyze an organization’s data in order to improve processes, services, and software performance, and to help businesses enhance their data-driven decision making.
+
+Business Intelligence Developers transform data into reports, dashboards, charts, and visualizations that power data-driven decision making. BI Developers are valued for solving organizational challenges through the creation of reporting systems
+
+Data engineers design and build pipelines that allow for the collection of data from multiple sources, with the goal of enabling data scientists to derive and deliver big data insights. Data engineers are valued for transforming data into usable form
+
+=========================
+
+https://www.americanscientist.org/
+https://www.datasciencecentral.com/profiles/blogs/new-books-and-resources-for-dsc-members
+https://towardsdatascience.com/data-engineering-complete-reference-guide-from-a-z-2019-852c308b15ed
+https://www.kdnuggets.com/2018/09/winning-game-plan-building-data-science-team.html
+https://twitter.com/kdnuggets/status/1058015837330784256/photo/1
+https://www.kaggle.com/learn-forum/186870
+https://www.coursera.org/learning-paths/data-engineering
+https://www.simplilearn.com/tutorials/big-data-tutorial/how-to-become-big-data-engineer
+
+===================
+
+HDFS
+Kafka
+ETL
+MapReduce
+Spark
+
+Ingesting -> ETL -> Analyze -> Visualize
+
+transform data into actionable intelligence
+turn raw data into usable data pipelines
+build data tools and products for effort automation and easy data accessibility
+diagnose the existing architecture, data maturity, and identify gaps
+build data assets that enhance the quality of overall data structures
+transform complex data into easily understood, actionable information
+gather requirements, assess gaps, and build roadmaps and architectures to help the analytics driven organization achieve its goals
+work closely with Data Analysts to ensure data quality and availability for analytical modelling.
+define extract, load, and transform (ELT) based on jointly defined requirements.
+implement solutions for data security, quality, and automation of processes
+experience finding, cleaning, and preparing data for use by Data Scientists
+knitting disperate data sources together
+using SQL (i.e., PL/SQL or T-SQL with RDBMSs like Teradata, MS SQL Server, Oracle, etc.)
+data engineering, databases, and data warehouses.
+data engineering in Python.
+Scala, Julia, R, Python or other machine learning programming language
+experience on Big Data platforms (i.e., Hadoop, Map/Reduce, Spark, HBase, CouchDB, Hive, etc.
+
+utilize programming languages like Java, Scala, Python and Open Source RDBMS and NoSQL databases and Cloud based data warehousing services such as Snowflake
+perform unit tests and conducting reviews
+big data technologies (Cassandra, Accumulo, HBase, Spark, Hadoop, HDFS, AVRO, MongoDB, or Zookeeper)
+application development
+streaming data applications (Spark Streaming, Kafka, Kinesis, and Flink
+Amazon Web Services (AWS), Microsoft Azure or another public cloud service
+Ansible / Terraform
+Agile engineering practices
+in-depth experience with the Hadoop stack (MapReduce, Pig, Hive, Hbase)
+NoSQL implementation (Mongo, Cassandra)
+developing Java based software solutions
+scripting language (Python, Perl, JavaScript, Shell)
+developing software solutions to solve complex business problems
+UNIX/Linux including basic commands and shell scripting
+
+petabyte search
+
+
+assist in the development and maintenance of data pipelines for a Cloud Based Metrics System
+facilitating data through the ingest process to dashboard visualizations
+utilizing AWS services and the ELK stack (Elasticsearch, Logstash and Kibana)
+
+=================================
+Permission to work in the United States without sponsorship is required
+All candidates must be able to pass a National Agency Clearance with Inquires (NACI) screening
+
+===============
+
+administer Elasticsearch cluster including cluster/shard sizing, reindexing and debug common problems arising from running a self managed multi-tenant cluster
+write data pipelines to parse logs using Logstash plugins
+create graphs and dashboards in Kibana to meet end user reporting requirements and debug problems with data visualization
+experience with AWS services such as Cloudformation, EC2, Kinesis, Lambda, SQS, Cloudwatch and S3.
+experience with NodeJS
+
+familiarity with log formats from various AWS services such as S3 server access , Cloudfront distribution, Lambda execution, ELB, Container execution etc.
+experience with Kibana Query Language, Lucene Query Language, and/or Querydsl
+desire to become an AWS Certified architect / engineer
+
+================
+
+we’ll have your back when things go wrong
+we only take on work that is challenging and right for us
+there are projects we will turn down and the team has a say
+
+=========
+engineering skill in Python, Java, and/or Scala
+experience in metric analysis and dashboarding
+designing and building data models to improve accessibility, efficiency, and quality of data
+experience in building high quality applications, data pipelines and analytics solutions
+modern cloud computing technologies such as Spark, NoSql, Cassandra, Kafka, AirFlow, Hadoop
+modern web services architectures, cloud platforms such as AWS, GCE, Azure
+in-depth knowledge of build/release systems and process
+design and build data pipelines
+be responsible for communicating with data scientists and algorithm researchers to determine the most effective models to improve data access, promote scientific research
+
+
+Spark or Cloud Data engineering pro
+razor-sharp critical thinking skills.
+building end-to-end digital transformation capabilities
+design and build real-time analytics solutions using industry standard technologies and work with data architects to make sure Cloud Data solutions align with technology direction
+unit testing, CI/CD, performance testing, capacity planning, documentation, monitoring, alerting and incident response
+develop Cloud Native architecture, data supply chain, Architect, Prototype and Test end to end data supply chain, use cases that drive business value, and provide architecture support to the data scientists
+
+
+
+
+
+
